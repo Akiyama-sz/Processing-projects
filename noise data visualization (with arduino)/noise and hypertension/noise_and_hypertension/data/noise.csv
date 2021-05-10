@@ -1,0 +1,8 @@
+id,country,noise levels (Lnight),high noise sensitivity rate,hypertension,highly annoyed rate,map
+1,UK,49.3,44,52.6,32.6,im1
+2,Germany,40.2,30.7,56.8,15.8,im2
+3,The Netherlands,42.2,25.3,55.9,11.1,im3
+4,Sweden,39.5,25.5,53.9,9.9,im4
+5,Greece,41.7,39.9,59.7,43.4,im5
+6,Italy,35.4,46,52.8,22.2,im6
+7,France,45.1,29.7,34.7,18.2,im7
